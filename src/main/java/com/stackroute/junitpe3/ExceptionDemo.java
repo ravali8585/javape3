@@ -1,10 +1,7 @@
 package com.stackroute.junitpe3;
 
 public class ExceptionDemo {
-    public ExceptionDemo()
-    {
-
-    }
+   
 
     public String throwException(int number)
     {
